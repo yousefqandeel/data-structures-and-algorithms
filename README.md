@@ -1,5 +1,7 @@
 ## Repo
 
-| Classes | #1 | #2 |
-| :---: | :---: | :---: |
-| Links | [Reversed Array](https://github.com/yousefqaneel/data-structures-and-algorithms/tree/main/data%20structure) | [Insert & Shift Array](./data-structures-and-algorithms/array-insert-shift/README.md) |
+| Classes      | Links      
+| -------------| ------------- 
+| #1           | [Reversed Array](./data%20structure/README.md)        
+| #2           | [Insert & Shift Array](./data-structures-and-algorithms/README.md)
+| #3           | [Stack Queue](./stack%20queue%20animal%20shelter/README.md) 
