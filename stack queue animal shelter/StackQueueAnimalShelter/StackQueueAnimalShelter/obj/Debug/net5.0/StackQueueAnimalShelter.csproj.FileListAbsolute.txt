@@ -1,0 +1,5 @@
+C:\Users\owner\source\repos\StackQueueAnimalShelter\StackQueueAnimalShelter\obj\Debug\net5.0\StackQueueAnimalShelter.csproj.AssemblyReference.cache
+C:\Users\owner\source\repos\StackQueueAnimalShelter\StackQueueAnimalShelter\obj\Debug\net5.0\StackQueueAnimalShelter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\owner\source\repos\StackQueueAnimalShelter\StackQueueAnimalShelter\obj\Debug\net5.0\StackQueueAnimalShelter.AssemblyInfoInputs.cache
+C:\Users\owner\source\repos\StackQueueAnimalShelter\StackQueueAnimalShelter\obj\Debug\net5.0\StackQueueAnimalShelter.AssemblyInfo.cs
+C:\Users\owner\source\repos\StackQueueAnimalShelter\StackQueueAnimalShelter\obj\Debug\net5.0\StackQueueAnimalShelter.csproj.CoreCompileInputs.cache
