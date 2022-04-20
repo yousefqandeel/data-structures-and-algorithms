@@ -1,0 +1,16 @@
+C:\Users\owner\source\repos\Multi-bracket-Validation\Multi-bracket-Validation\bin\Debug\net5.0\Multi-bracket-Validation..exe
+C:\Users\owner\source\repos\Multi-bracket-Validation\Multi-bracket-Validation\bin\Debug\net5.0\Multi-bracket-Validation..deps.json
+C:\Users\owner\source\repos\Multi-bracket-Validation\Multi-bracket-Validation\bin\Debug\net5.0\Multi-bracket-Validation..runtimeconfig.json
+C:\Users\owner\source\repos\Multi-bracket-Validation\Multi-bracket-Validation\bin\Debug\net5.0\Multi-bracket-Validation..runtimeconfig.dev.json
+C:\Users\owner\source\repos\Multi-bracket-Validation\Multi-bracket-Validation\bin\Debug\net5.0\Multi-bracket-Validation..dll
+C:\Users\owner\source\repos\Multi-bracket-Validation\Multi-bracket-Validation\bin\Debug\net5.0\ref\Multi-bracket-Validation..dll
+C:\Users\owner\source\repos\Multi-bracket-Validation\Multi-bracket-Validation\bin\Debug\net5.0\Multi-bracket-Validation..pdb
+C:\Users\owner\source\repos\Multi-bracket-Validation\Multi-bracket-Validation\obj\Debug\net5.0\Multi-bracket-Validation..csproj.AssemblyReference.cache
+C:\Users\owner\source\repos\Multi-bracket-Validation\Multi-bracket-Validation\obj\Debug\net5.0\Multi-bracket-Validation..GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\owner\source\repos\Multi-bracket-Validation\Multi-bracket-Validation\obj\Debug\net5.0\Multi-bracket-Validation..AssemblyInfoInputs.cache
+C:\Users\owner\source\repos\Multi-bracket-Validation\Multi-bracket-Validation\obj\Debug\net5.0\Multi-bracket-Validation..AssemblyInfo.cs
+C:\Users\owner\source\repos\Multi-bracket-Validation\Multi-bracket-Validation\obj\Debug\net5.0\Multi-bracket-Validation..csproj.CoreCompileInputs.cache
+C:\Users\owner\source\repos\Multi-bracket-Validation\Multi-bracket-Validation\obj\Debug\net5.0\Multi-bracket-Validation..dll
+C:\Users\owner\source\repos\Multi-bracket-Validation\Multi-bracket-Validation\obj\Debug\net5.0\ref\Multi-bracket-Validation..dll
+C:\Users\owner\source\repos\Multi-bracket-Validation\Multi-bracket-Validation\obj\Debug\net5.0\Multi-bracket-Validation..pdb
+C:\Users\owner\source\repos\Multi-bracket-Validation\Multi-bracket-Validation\obj\Debug\net5.0\Multi-bracket-Validation..genruntimeconfig.cache
